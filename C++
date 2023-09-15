@@ -1,8 +1,10 @@
+#include<bits/stdc++.h>        /// "bits/stdc++.h" is a header file that include all the standard libraries.
 #include<iostream>
 using namespace std;
+
 int main()
 {
-    int T;      // Test case
+    int T;      /// Test case
     cin >> T;
     while(T--)
     {
@@ -10,3 +12,7 @@ int main()
     }
     return 0;
 }
+
+/// A flag variable functions as a signal in programming, informing the program that a specific condition has been fulfilled. It commonly takes on the role of a Boolean variable, indicating whether a condition is true or false.
+///------------------------------------------------------------------------------------------
+✔❗©
